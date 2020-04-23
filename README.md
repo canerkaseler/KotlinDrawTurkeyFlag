@@ -1,2 +1,2 @@
 # KotlinDrawTurkeyFlag
-Turkey Flag with Kotlin drawing April 23, 1923. • 23 Nisan 1923 için Kotlin ile Türkiye Bayrağı çizimi.
+Turkey Flag with Kotlin drawing April 23, 1920. • 23 Nisan 1920 için Kotlin ile Türkiye Bayrağı çizimi.
